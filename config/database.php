@@ -88,7 +88,7 @@ return [
             'database' => $db_config['database'],
             'username' => $db_config['username'],
             'password' => $db_config['password'],
-            'charset'  => 'utf8mb4',
+            'charset'  => 'utf8',
             'prefix'   => '',
             'schema'   => 'public',
             'sslmode'  => 'prefer',
